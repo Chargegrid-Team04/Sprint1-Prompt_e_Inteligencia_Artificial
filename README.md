@@ -59,9 +59,9 @@ graph TD
     A5 -.-> B3
 ```
 
-## 💬 Exemplos de Interação (Q&A)
+## 💬 Modelo de teste
 
-O assistente foi validado com as seguintes questões fundamentais:
+Foi elaborado um modelo de teste com 5 perguntas e suas respostas esperadas:
 
 **1º Pergunta:** A bateria do carro elétrico precisa estar completamente descarregada antes de carregá-lá?
 
