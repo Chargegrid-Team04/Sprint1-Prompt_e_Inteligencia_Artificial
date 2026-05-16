@@ -63,13 +63,13 @@ graph TD
 
 O assistente foi validado com as seguintes questões fundamentais:
 
-**Pergunta:** A bateria do carro elétrico precisa estar completamente descarregada antes de carregá-lá?
+**1º Pergunta:** A bateria do carro elétrico precisa estar completamente descarregada antes de carregá-lá?
 
-**Resposta:** Não, a bateria do carro elétrico não precisa estar completamente descarregada antes de ser carregada. As baterias modernas de íons de lítio, como as usadas em carros elétricos, se beneficiam de recargas parciais. Portanto, você pode carregar o veículo sempre que desejar, mesmo que ainda haja carga na bateria.
+**1º Resposta:** Não, a bateria do carro elétrico não precisa estar completamente descarregada antes de ser carregada. As baterias modernas de íons de lítio, como as usadas em carros elétricos, se beneficiam de recargas parciais. Portanto, você pode carregar o veículo sempre que desejar, mesmo que ainda haja carga na bateria.
 
-**Pergunta:** Quais são os tipos de carregadores de carro elétrico?
+**2º Pergunta:** Quais são os tipos de carregadores de carro elétrico?
 
-**Resposta:** Os tipos de carregadores de carro elétrico incluem:
+**2º Resposta:** Os tipos de carregadores de carro elétrico incluem:
 
 1. **Carregadores lentos (AC até 7,4 kW)** – Comumente utilizados em residências e estacionamentos.
 2. **Carregadores semirrápidos (AC 11 a 22 kW)** – Encontrados em shoppings e empresas.
@@ -77,9 +77,24 @@ O assistente foi validado com as seguintes questões fundamentais:
 
 Além disso, um exemplo específico de carregador é o WayBox 2.01, que oferece diferentes opções de potência de saída, com conectividade inteligente para monitoramento e agendamento de recargas através de um aplicativo.
 
-**Pergunta:** Quanto custa uma recarga de um carro elétrico?
+**3º Pergunta:** Quanto custa uma recarga de um carro elétrico?
 
-**Resposta:** O custo para recarregar um carro elétrico em um eletroposto varia entre R$ 1,50 e R$ 2,50 por kWh. Para um carro com uma bateria de 50 kWh, o custo total para uma carga completa seria de aproximadamente R$ 75 a R$ 125. Além disso, muitos eletropostos em shoppings e estacionamentos oferecem recarga gratuita como parte de programas de incentivo à mobilidade elétrica.
+**3º Resposta:** O custo para recarregar um carro elétrico em um eletroposto varia entre R$ 1,50 e R$ 2,50 por kWh. Para um carro com uma bateria de 50 kWh, o custo total para uma carga completa seria de aproximadamente R$ 75 a R$ 125. Além disso, muitos eletropostos em shoppings e estacionamentos oferecem recarga gratuita como parte de programas de incentivo à mobilidade elétrica.
+
+**4º Pergunta:** Quanto tempo demora para realizar uma recarga de um carro elétrico?
+
+**4º Resposta:** O tempo para realizar uma recarga de um carro elétrico varia dependendo do tipo de carregador utilizado e da capacidade da bateria do veículo. Em média, aqui estão algumas estimativas de tempos de recarga:
+
+1. **Carregadores lentos (AC 3,7 – 7,4 kW)**: levam de 4 a 16 horas para atingir cerca de 80% da bateria.
+2. **Carregadores semirrápidos (AC 11 – 22 kW)**: podem levar de 1 a 4 horas.
+3. **Carregadores rápidos (DC 50 kW)**: demoram cerca de 30 a 60 minutos para 80% de carga.
+4. **Carregadores ultrarrápidos (DC 150 a 350 kW)**: conseguem alcançar 80% em apenas 10 a 30 minutos.
+
+Portanto, dependendo da potência do carregador e do modelo do veículo, o tempo de recarga pode variar bastante, com uma média entre 20 a 60 minutos em eletropostos rápidos.
+
+**5º Pergunta:** O carro elétrico pode ser recarregado debaixo de chuva?
+
+**5º Resposta:** Sim, porque os pontos de recarga públicos e os dos próprios carros são feitos com materiais resistentes à água. Mesmo assim, é preciso tomar os mesmos cuidados em relação a qualquer outro equipamento elétrico, como evitar que a chuva caia diretamente sobre o conector ou a porta de recarga.
 
 ## ⚙️ Configuração do Contexto (System Prompt)
 
