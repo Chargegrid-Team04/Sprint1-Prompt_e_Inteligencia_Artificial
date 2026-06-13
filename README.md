@@ -102,8 +102,81 @@ Para garantir que a IA não forneça respostas genéricas e mantenha o foco no e
 
 Em Português:
 
-    "Você é um assistente especializado em responder perguntas sobre veículos elétricos, carregadores de veículos elétricos e o processo de recarga. Responda as perguntas de forma clara e objetiva usando o contexto obtido."
+    "Você é o ChargeGrid Intelligence, um assistente virtual especializado da GoodWe para soluções de recarga comercial de veículos elétricos (EV).
+     Seu objetivo é responder perguntas de forma clara e concisa usando o contexto fornecido abaixo.
+     Se você não souber a resposta ou se a informação não estiver no contexto, diga educadamente que não possui essa informação técnica no momento."
 
-No Código (Inglês):
+## Execução dos casos de teste
 
-    "You are an assistant specialized in answering questions about electric vehicles, electric vehicle chargers, and the charging process. Answer questions clearly and concisely using the context provided."
+Segue-se abaixo o resultado da execução dos casos de teste:
+
+**Pergunta 1:** A bateria do carro elétrico precisa estar completamente descarregada antes de carregá-lá?
+
+**Resposta Obtida:** Não, você não precisa esperar que a bateria do seu veículo descarregue completamente antes de carregá-la. As novas baterias de íons de lítio se beneficiam de pequenas sessões de carregamento,
+permitindo que você recarregue seu automóvel elétrico sempre que desejar.
+
+**Avaliação:** Resposta adequada.
+
+---
+
+**Pergunta 2:** Quais são os tipos de carregadores de carro elétrico?
+
+**Resposta Obtida:** Os tipos principais de carregadores de carro elétrico são:
+
+1. **Carregadores lentos (AC até 7,4 kW)** – Usados em residências e estacionamentos.
+2. **Carregadores semirrápidos (AC 11 a 22 kW)** – Encontrados em shoppings e empresas.
+3. **Carregadores rápidos ou ultrarrápidos (DC 50 a 350 kW)** – Presentes nas rodovias e postos públicos.
+
+**Avaliação:** Resposta adequada.
+
+---
+
+**Pergunta 3:** Quanto custa uma recarga de um carro elétrico?
+
+**Resposta Obtida:**  O custo médio para recarregar um carro elétrico em um eletroposto varia entre R$ 1,50 e R$ 2,50 por kWh. Por exemplo, para um carro com bateria de 50 kWh,
+o custo total para uma carga completa seria de aproximadamente R$ 75 a R$ 125. Além disso, muitos eletropostos em shoppings e estacionamentos oferecem recarga gratuita como parte de programas de incentivo à mobilidade elétrica.
+
+**Avaliação:** Resposta adequada.
+
+---
+
+**Pergunta 4:** Quanto tempo demora para realizar uma recarga de um carro elétrico?
+
+**Resposta Obtida:** O tempo de recarga de um carro elétrico varia conforme o tipo de carregador e o tamanho da bateria do veículo. Em média, o tempo para carregar até 80% é:
+
+- Lento (AC 3,7 – 7,4 kW): 4 a 8 horas
+- Semirrápido (AC 11 – 22 kW): 1 a 4 horas
+- Rápido (DC 50 kW): 30 a 60 minutos
+- Ultrarrápido (DC 150 a 350 kW): 10 a 30 minutos
+
+Portanto, em média, para uma recarga em eletroposto, o tempo pode variar de 20 a 60 minutos, dependendo da potência do carregador e do modelo do veículo.
+
+**Avaliação:** Resposta adequada.
+
+---
+
+**Pergunta 5:** O carro elétrico pode ser recarregado debaixo de chuva?
+
+**Resposta obtida:** Sim, é seguro carregar um carro elétrico debaixo de chuva. As estações de carregamento e as tomadas são construídas de acordo com normas de segurança internacionais que garantem que o equipamento é à prova de água e seguro para manuseio em condições molhadas. Além disso, os sistemas elétricos dos veículos elétricos são meticulosamente selados para evitar a infiltração de humidade, minimizando os riscos de choques elétricos ou danos no veículo.
+
+**Avaliação:** Resposta adequada.
+
+## Instruções de execução
+
+Recomendamos seguir o passo a passo para utilizar o assistente de IA desenvolvido.
+
+1. Baixe o arquivo Sprint02_Prompt_IA.ipynb;
+2. Abra o Google Colab;
+3. Selecione a opção "Abrir notebook" e selecione o arquivo baixado
+4. Execute todas as celulas na ordem em que estão
+
+## Exemplos de uso
+
+**Executando as células iniciais de configuração**
+
+<img width="1793" height="444" alt="image" src="https://github.com/user-attachments/assets/b0c7f928-c0c1-4569-a435-152cb4a9fa28" />
+
+**Configurando o System Prompt**
+
+<img width="1796" height="281" alt="image" src="https://github.com/user-attachments/assets/0dccfd7b-854d-4c70-a763-731f452fde07" />
+
