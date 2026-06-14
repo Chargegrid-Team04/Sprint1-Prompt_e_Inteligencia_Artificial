@@ -165,14 +165,12 @@ Portanto, em média, para uma recarga em eletroposto, o tempo pode variar de 20 
 
 Recomendamos seguir o passo a passo para utilizar o assistente de IA desenvolvido.
 
-1. Baixe o arquivo Sprint02_Prompt_IA.ipynb
-2. Abra o Google Colab
-3. Selecione a opção "Abrir notebook" e selecione o arquivo baixado
-4. Acesse o link: https://br.goodwe.com/Ftp/Downloads/User%20Manual/GW_HCA-G2_User-Manual-PT.pdf
-5. Baixe o PDF
-6. Faça upload do PDF na pasta "content" do Google Colab
-7. Certifique-se que o caminho do arquivo ficou como "/content/GW_HCA-G2_User-Manual-PT.pdf"
-8. Execute todas as celulas na ordem em que estão
+1. Acesse o arquivo "Sprint 2 - Link Google Colab" do repositório
+2. Acesse o link: https://br.goodwe.com/Ftp/Downloads/User%20Manual/GW_HCA-G2_User-Manual-PT.pdf
+3. Baixe o PDF
+4. Faça upload do PDF na pasta "content" do Google Colab
+5. Certifique-se que o caminho do arquivo ficou como "/content/GW_HCA-G2_User-Manual-PT.pdf"
+6. Execute todas as celulas na ordem em que estão
 
 ## Exemplos de uso
 
