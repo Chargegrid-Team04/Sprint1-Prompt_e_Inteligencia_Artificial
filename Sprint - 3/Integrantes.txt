@@ -1,1 +1,14 @@
-Test
+================================================================================
+Sprint 3 - Prompt e Inteligência Artificial
+================================================================================
+
+Integrantes:
+- Carlos Eduardo Affonso — RM 569676
+- Gabriel Oliveira Gusmão Florencio dos Santos — RM 573747
+- Gabrieli de Lima Pettena de Oliveira — RM 569799
+- Igor Massone Monteiro — RM 573853
+- Temitope Kuku da Silva Ogunbanjo — RM 573772
+
+Nota de Divisão de Trabalho:
+Conforme o planejamento e a divisão de tarefas estabelecidos pelo grupo para o projeto, as entregas referentes a esta Sprint 3 foram desenvolvidas exclusivamente pelo integrante Temitope Kuku da Silva Ogunbanjo. Os demais integrantes assumiram a responsabilidade e liderança na execução das outras sprints.
+================================================================================
