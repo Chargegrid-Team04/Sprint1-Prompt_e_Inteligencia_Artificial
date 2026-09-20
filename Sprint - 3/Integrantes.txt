@@ -10,5 +10,14 @@ Integrantes:
 - Temitope Kuku da Silva Ogunbanjo — RM 573772
 
 Nota de Divisão de Trabalho:
-Conforme o planejamento e a divisão de tarefas estabelecidos pelo grupo para o projeto, as entregas referentes a esta Sprint 3 foram desenvolvidas exclusivamente pelo integrante Temitope Kuku da Silva Ogunbanjo. Os demais integrantes assumiram a responsabilidade e liderança na execução das outras sprints.
+Conforme o planejamento e a divisão de tarefas estabelecidos pelo grupo para o projeto, as entregas referentes a esta Sprint 3 foram desenvolvidas pelo integrante Temitope Kuku da Silva Ogunbanjo. Os demais integrantes assumiram a responsabilidade e liderança na execução das outras sprints.
+================================================================================
+
+================================================================================
+Github: https://github.com/Chargegrid-Team04/Sprint1-Prompt_e_Inteligencia_Artificial/tree/main/Sprint%20-%203
+Colab: https://colab.research.google.com/drive/1mOITLLPG53MJ5hOflkaFbww54fj7EMMS?usp=sharing
+================================================================================
+
+================================================================================
+Observação: Para uma melhor visualização do Relatorio e Testes acesse-os pelo repositório no github
 ================================================================================
