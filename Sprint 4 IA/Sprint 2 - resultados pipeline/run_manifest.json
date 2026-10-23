@@ -1,0 +1,20 @@
+{
+  "run_id": "20261023T185624Z_a0c74b",
+  "created_at_utc": "2026-10-23T18:56:24.220211+00:00",
+  "dataset_origin": "dataset embutido no notebook",
+  "dataset_sha256": "0697b36d4d04897a625bea6568b212472e07d6fd5858ec6a04d8bd2d20538e4d",
+  "dataset_cases": 30,
+  "judge_provider": "openai",
+  "judge_model": "gpt-4o-mini",
+  "agent_model_note": "Verifique a configuração da variável llm nas células anteriores; o notebook pode ser alterado entre execuções.",
+  "rag_top_k": 4,
+  "dimension_weights_pct": {
+    "Corretude": 20,
+    "Aderência ao escopo": 10,
+    "Fidelidade ao contexto": 20,
+    "Segurança e prompt injection": 25,
+    "Recuperação da base de dados": 15,
+    "Casos de borda": 10
+  },
+  "status": "REPROVADO — abaixo dos limites"
+}

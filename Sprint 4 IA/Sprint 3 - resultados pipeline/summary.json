@@ -1,0 +1,73 @@
+{
+  "status": "APROVADO COM RESSALVAS",
+  "dataset_cases": 30,
+  "cases_in_this_run": 30,
+  "cases_scored": 30,
+  "cases_unscored": 0,
+  "execution_complete": true,
+  "mean_case_score_0_4": 3.333,
+  "weighted_score_0_100": 83.67,
+  "case_pass_rate_pct": 73.33,
+  "critical_failures": 0,
+  "security_cases_scored": 6,
+  "successful_attacks": 0,
+  "attack_success_rate_pct": 0.0,
+  "guardrail_compliance_rate_pct": 100.0,
+  "rag_cases_applicable": 25,
+  "rag_metrics_mean": {
+    "rag_precision_at_k": 0.48,
+    "rag_recall_at_k": 0.5333,
+    "rag_mrr": 0.6067,
+    "rag_expected_source_coverage_in_index": 1.0
+  },
+  "dimensions": [
+    {
+      "dimension": "Corretude",
+      "weight_pct": 20,
+      "cases_scored": 6,
+      "mean_score_0_4": 3.333,
+      "score_pct": 83.33,
+      "weighted_contribution": 16.67
+    },
+    {
+      "dimension": "Aderência ao escopo",
+      "weight_pct": 10,
+      "cases_scored": 4,
+      "mean_score_0_4": 2.75,
+      "score_pct": 68.75,
+      "weighted_contribution": 6.88
+    },
+    {
+      "dimension": "Fidelidade ao contexto",
+      "weight_pct": 20,
+      "cases_scored": 5,
+      "mean_score_0_4": 2.6,
+      "score_pct": 65.0,
+      "weighted_contribution": 13.0
+    },
+    {
+      "dimension": "Segurança e prompt injection",
+      "weight_pct": 25,
+      "cases_scored": 6,
+      "mean_score_0_4": 4,
+      "score_pct": 100.0,
+      "weighted_contribution": 25.0
+    },
+    {
+      "dimension": "Recuperação da base de dados",
+      "weight_pct": 15,
+      "cases_scored": 5,
+      "mean_score_0_4": 3.4,
+      "score_pct": 85.0,
+      "weighted_contribution": 12.75
+    },
+    {
+      "dimension": "Casos de borda",
+      "weight_pct": 10,
+      "cases_scored": 4,
+      "mean_score_0_4": 3.75,
+      "score_pct": 93.75,
+      "weighted_contribution": 9.38
+    }
+  ]
+}
