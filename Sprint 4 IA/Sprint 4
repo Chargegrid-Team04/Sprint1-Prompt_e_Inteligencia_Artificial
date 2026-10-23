@@ -1,0 +1,30 @@
+================================================================================
+Sprint 4 - Prompt e Inteligência Artificial
+================================================================================
+Ciência da Computação
+1CCPO
+
+Integrantes:
+- Carlos Eduardo Affonso — RM 569676
+- Gabriel Oliveira Gusmão Florencio dos Santos — RM 573747
+- Gustavo de Souza Abreu - RM 574080
+- Gabrieli de Lima Pettena de Oliveira — RM 569799
+- Igor Massone Monteiro — RM 573853
+- Temitope Kuku da Silva Ogunbanjo — RM 573772
+
+Nota de Divisão de Trabalho:
+Conforme o planejamento e a divisão de tarefas estabelecidos pelo grupo para o projeto, as entregas referentes a esta Sprint 4 foram desenvolvidas pelo integrante Gabriel Oliveira Gusmão Florencio dos Santos. Os demais integrantes assumiram a responsabilidade e liderança na execução das outras sprints.
+================================================================================
+
+================================================================================
+Github: https://github.com/Chargegrid-Team04/Sprint1-Prompt_e_Inteligencia_Artificial/tree/main/Sprint%204%20IA
+
+Colab - Sprint 2 com pipeline de avaliação: https://colab.research.google.com/drive/1i95Hhkz96H36IzIjPFROqb3ZpnmKg7LP?usp=sharing
+Colab - Sprint 4 com pipeline de avaliação: https://colab.research.google.com/drive/1tV2zyYi4bycnpZICBgjP0pp7RgWWNigM?usp=sharing
+
+Observação: A Sprint 4 tem um mesmo código da Sprint 3. A única diferença é o pipeline de avaliação
+================================================================================
+
+================================================================================
+Observação: O repositório do github inclui os resultados gerados pelo pipeline das duas Sprints, o relatório em PDF e o golden dataset em .xlsx
+================================================================================
